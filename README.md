@@ -1,7 +1,5 @@
 # Hi, I'm Hao 👋
 
-Backend .NET Developer
-
 ## About Me
 I am a IT student currently focusing on backend development with :contentReference[oaicite:0]{index=0}.
 
