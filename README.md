@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Hao 👋
 
-<!--
-**DevOfSgu/DevOfSgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend .NET Developer
 
-Here are some ideas to get you started:
+## About Me
+I am a IT student currently focusing on backend development with :contentReference[oaicite:0]{index=0}.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am learning to build RESTful APIs using :contentReference[oaicite:1]{index=1}, working with databases like :contentReference[oaicite:2]{index=2}, and exploring clean architecture principles.
+
+My goal is to become a Backend .NET Developer and build scalable, maintainable systems.
+## Tech Stack
+- C#
+- .NET
+- SQL Server
+- Entity Framework Core
+- REST API
+- Docker
