@@ -14,3 +14,8 @@ My goal is to become a Backend .NET Developer and build scalable, maintainable s
 - Entity Framework Core
 - REST API
 - Docker
+## 🛠 Language and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,docker,linux,mysql,postgres,redis,postman" />
+</p>
