@@ -17,5 +17,6 @@ My goal is to become a Backend .NET Developer and build scalable, maintainable s
 ## 🛠 Language and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,docker,linux,mysql,postgres,redis,postman" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,docker,linux,redis,postman" />
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" height="48" alt="sqlserver"/>
 </p>
